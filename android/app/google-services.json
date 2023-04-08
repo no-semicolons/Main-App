@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844897821570",
+    "project_id": "polipay",
+    "storage_bucket": "polipay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844897821570:android:93ffa124760e9fbb0d659b",
+        "android_client_info": {
+          "package_name": "com.example.polipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844897821570-iirig5ql9q917jdlri5l9bhtjmbp6l3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpfgv_8SVjwlJ1nRDypZvcuRb3fq68u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844897821570-iirig5ql9q917jdlri5l9bhtjmbp6l3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
